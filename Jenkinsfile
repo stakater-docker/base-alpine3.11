@@ -3,4 +3,6 @@
 
 pushDockerImage {
     dockerRepositoryURL = "docker.io"
+    imageName = "base-alpine"
+    imageVersion = "3.11"
 }
